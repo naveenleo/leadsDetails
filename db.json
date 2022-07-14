@@ -1,10 +1,7 @@
 { 
   "leads":[
   {
-        "Last_Name": "abs",
-
-    "First_Name": "abs"
-  },
+        "Last_Name": "abs"  },
 {
     "First_Name": "xyz",
     "Last_Name": "zyx",
